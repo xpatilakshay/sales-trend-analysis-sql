@@ -47,6 +47,8 @@ Analyze monthly **revenue** and **order volume** using SQL aggregation technique
 
 ---
 
+![📄 View Solution Task 6 (PDF)](https://github.com/xpatilakshay/sales-trend-analysis-sql/blob/5f63472fd7272d8f7a8d54fc39ff1de29e22d87e/sales-trend-analysis-sql_Task-6/Solution/Solution%20Task%206%20.pdf)
+
 ## 📜 SQL Queries
 
 ```sql
@@ -254,7 +256,7 @@ FROM online_sales
 WHERE MONTH(order_date) = 1
 GROUP BY product_id;'''
 
-[📄 View Solution Task 6 (PDF)](https://github.com/xpatilakshay/sales-trend-analysis-sql/blob/5f63472fd7272d8f7a8d54fc39ff1de29e22d87e/sales-trend-analysis-sql_Task-6/Solution/Solution%20Task%206%20.pdf)
+
 
 
 
